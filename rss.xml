@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RandallBryant.com]]></title>
+        <description><![CDATA[RandallBryant.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 18:25:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Construction Activities]]></title>
+            <description><![CDATA[<article><h1>Construction Activities</h1><p>Slate Roofing - Historic New Orleans Victorian Home</p></article>]]></description>
+            <link>undefinedslate-roofing-historic-new-orleans-victorian-home/index.html</link>
+            <guid isPermaLink="false">b79379d6-6f89-48e3-8e89-439833739017</guid>
+            <pubDate>Tue, 15 Mar 2016 18:25:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
