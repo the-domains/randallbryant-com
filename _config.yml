@@ -1,7 +1,7 @@
 name: RandallBryant.com
 favicon: null
-layout_spectrum: 0.5954303275793791
-typography_spectrum: 0.7361710323020816
+layout_spectrum: 0.31467
+typography_spectrum: 0.65818
 title: RandallBryant.com
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.13363372720777988
-  lightness: 0.39306628284975886
-  saturation: 0.7489545955322683
+    - '#000000'
+    - '#fffdee'
+    - '#7b7b7b'
+    - '#79b9f8'
+    - '#c8c2ac'
+  brandStrength: 0.1875
+  lightness: 0.4375
+  saturation: 0.5625
   rhythmicContrast: 0.6251253308728337
 purpose: []
